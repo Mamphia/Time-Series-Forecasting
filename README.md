@@ -1,5 +1,5 @@
 
-# [Sprint 13 - Time Series](https://github.com/brandon-levan/TripleTen-Data-Science-Projects/blob/main/Sprint%2013%20-%20Time%20Series/Sprint_13_Project.ipynb)
+# [Sprint 13 - Time Series](https://github.com/Mamphia/Time-Series-Forecasting/blob/main/Sprint_13_Project.ipynb)
 
 ## Skills Learned in Sprint 
 - Understand the trends and seasonality of time series
